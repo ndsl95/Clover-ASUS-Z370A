@@ -29,7 +29,7 @@ Bug：
 </plist>
 
 ![变频.png](变频.png)
-![基本介绍.png](Clover-EFI/基本介绍.png)
-![GPU.png][Clover-EFI/GPU.png]
-![Audio][Clover-EFI/Audio.png]
-![Display][Clover-EFI/Display.png]
+![基本介绍.png](基本介绍.png)
+![GPU.png](CGPU.png)
+![Audio.png](Audio.png)
+![Display.png](Display.png)

@@ -1,5 +1,5 @@
 # Clover-EFI
-Share Some Clover Configuration Files（分享一些黑苹果配置文件）
+Share Some Clover Configuration Files（分享一些黑苹果配置文件，主板ASUS Z370A）
 
 ![基本介绍.png](基本介绍.png)
 CPU： Intel QQM6 （Engineering Sample）<br>

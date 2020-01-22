@@ -24,6 +24,7 @@ Xdobo x3 Pro只支持SBC （音箱只支持SBC）<br>
 1.更新whatevergreen.kext到最新版本,我使用的版本为1.3.6<br>
 2.在config.plist中的Boot-Arguments下添加agpdmod=pikera参数（没有Boot-Arguments参数可以自己添加，但是要注意上下文格式）<br>
 （源地址：https://osx.cx/whatevergreen-kext-amd.html）<br>
+(我已经做了这方面的处理，和我相同主板型号的直接使用即可，安装时尚未遇到其他的问题）
 
 ![变频.png](变频.png)
 ![基本介绍.png](基本介绍.png)

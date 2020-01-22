@@ -19,6 +19,9 @@ Bug：
 2.在config.plist中的Boot-Arguments下添加agpdmod=pikera参数（没有Boot-Arguments参数可以自己添加，但是要注意上下文格式）<br>
 （源地址：https://osx.cx/whatevergreen-kext-amd.html）<br>
 
+蓝牙测试<br>
+Xdobo x3 Pro只支持SBC （音箱只支持SBC）<br>
+威泽W2-AM1 支持aptx <br>
 
 ![变频.png](变频.png)
 ![基本介绍.png](基本介绍.png)

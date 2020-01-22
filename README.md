@@ -17,16 +17,8 @@ Bug：
 最开始是用myd2898129的EFI时出现 8 table load failures报错无法正常进入安装页面，经过查找后，发现需要做两个步骤：<br>
 1.更新whatevergreen.kext到最新版本,我使用的版本为1.3.6<br>
 2.在config.plist中的Boot-Arguments下添加agpdmod=pikera参数（没有Boot-Arguments参数可以自己添加，但是要注意上下文格式）<br>
-（源地址：https://osx.cx/whatevergreen-kext-amd.html）
-参考格式<br>
-<dict>
-    <key>Boot</key>
-    <dict>
-        <key>Arguments</key>
-        <string>agdpmod=pikera</string>
-    </dict>
-</dict>
-</plist>
+（源地址：https://osx.cx/whatevergreen-kext-amd.html）<br>
+
 
 ![变频.png](变频.png)
 ![基本介绍.png](基本介绍.png)

@@ -1,6 +1,7 @@
 # Clover-EFI
 Share Some Clover Configuration Files（分享一些黑苹果配置文件）
 
+![基本介绍.png](基本介绍.png)
 CPU： Intel QQM6 （Engineering Sample）<br>
 主板: ASUS PRIME Z370-A (https://www.asus.com.cn/Motherboards/PRIME-Z370-A/)<br>
 声卡: Realtek S1220A)<br>

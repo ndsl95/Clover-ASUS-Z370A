@@ -28,8 +28,8 @@ Bug：
 </dict>
 </plist>
 
-![变频][Clover-EFI/变频.png]
-！[基本介绍][Clover-EFI/基本介绍.png]
+![变频][(Clover-EFI/变频.png)]
+！[基本介绍][(Clover-EFI/基本介绍.png)]
 ！[GPU][Clover-EFI/GPU.png]
 ![Audio][Clover-EFI/Audio.png]
 ![Display][Clover-EFI/Display.png]

@@ -9,8 +9,13 @@ CPU： Intel QQM6 （Engineering Sample）<br>
 
 Bug： 
 1.睡眠似乎有问题，会睡死，因此我的解决办法是直接关闭睡眠<br>
-2.我的键盘是是用罗技G710+,是用调节音量滚轮时，声音变化极端灵敏，而且系统音量大小的动画会卡顿，尚不知道什么问题。<br>
+2.我的键盘是是用罗技G710+,是用调节音量滚轮时，音量大小变化极端灵敏，而且系统音量大小的动画会卡顿，尚不知道什么问题。<br>
 
+更新1： <br>
+蓝牙测试<br>
+Xdobo x3 Pro只支持SBC （音箱只支持SBC）<br>
+威泽W2-AM1 支持aptx <br>
+使用蓝牙连接音箱和耳机后，发现罗技键盘调节音量滚轮，音量大小变化极端灵敏的bug消失了，不清楚是什么原因。
 
 结论：
 基于myd2898129的EFI修改，感谢myd2898129的前期工作，给我省去了大量的时间（源地址：http://bbs.pcbeta.com/viewthread-1829467-1-1.html)<br>
@@ -18,10 +23,6 @@ Bug：
 1.更新whatevergreen.kext到最新版本,我使用的版本为1.3.6<br>
 2.在config.plist中的Boot-Arguments下添加agpdmod=pikera参数（没有Boot-Arguments参数可以自己添加，但是要注意上下文格式）<br>
 （源地址：https://osx.cx/whatevergreen-kext-amd.html）<br>
-
-蓝牙测试<br>
-Xdobo x3 Pro只支持SBC （音箱只支持SBC）<br>
-威泽W2-AM1 支持aptx <br>
 
 ![变频.png](变频.png)
 ![基本介绍.png](基本介绍.png)
